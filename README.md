@@ -32,7 +32,6 @@ This project sets up an automated CI/CD pipeline on AWS using Jenkins, Flask, an
 
 
 
-http://13.203.222.243:5000/
 
 ## IAM Role Permissions
 - **AmazonS3FullAccess** → Upload deployment logs
@@ -46,7 +45,7 @@ http://13.203.222.243:5000/
    - Installs dependencies
    - Restarts app
    - Uploads logs to S3
-4. App runs at http://<EC2-ip>:5000
+4. App runs at http://13.203.222.243:5000/
 
 ## Security
 - Jenkins secured by restricting port 8080 to IP
