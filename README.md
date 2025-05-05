@@ -22,6 +22,7 @@ This project sets up an automated CI/CD pipeline on AWS using Jenkins, Flask, an
 <img width="387" alt="result" src="https://github.com/user-attachments/assets/55920917-6493-4a09-8c66-a4d40af0b849" />
 
 <img width="950" alt="Screenshot 2025-05-06 014006" src="https://github.com/user-attachments/assets/51233c23-17c4-4452-a167-759ea7023115" />
+![image](https://github.com/user-attachments/assets/6399dcd6-287e-4332-a555-030fe28a1ccc)
 <img width="929" alt="Screenshot 2025-05-06 014039" src="https://github.com/user-attachments/assets/e07ad8db-f49e-4258-8ee6-cd01bd00e181" />
 <img width="948" alt="Screenshot 2025-05-06 013824" src="https://github.com/user-attachments/assets/acead5a1-477b-4c00-8b96-4efab7cf1347" />
 <img width="274" alt="Screenshot 2025-05-06 013751" src="https://github.com/user-attachments/assets/7624a227-9ef2-4825-9cf8-24e41c11249b" />
