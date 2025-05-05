@@ -18,8 +18,9 @@ This project sets up an automated CI/CD pipeline on AWS using Jenkins, Flask, an
 7. Deploy Flask app
 
 ![image](https://github.com/user-attachments/assets/90335bdf-0191-4a6c-bfb8-0c0c30119317)
+<img width="387" alt="result" src="https://github.com/user-attachments/assets/55920917-6493-4a09-8c66-a4d40af0b849" />
 
-https://github.com/Sahilyadav24/flask-hello-world/blob/53e6840088299c8bdcd2f35e9d99b44bb384dd83/result.png
+http://13.203.222.243:5000/
 
 ## IAM Role Permissions
 - **AmazonS3FullAccess** → Upload deployment logs
