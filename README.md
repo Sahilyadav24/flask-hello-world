@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/9828ccc2-e8c5-4215-ae38-301e7dac0d6c)# flask-hello-world
+# flask-hello-world
 # Flask Jenkins CI/CD on AWS (with IAM Role)
 
 This project sets up an automated CI/CD pipeline on AWS using Jenkins, Flask, and GitHub.
