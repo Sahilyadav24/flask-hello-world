@@ -18,6 +18,7 @@ This project sets up an automated CI/CD pipeline on AWS using Jenkins, Flask, an
 6. Configure GitHub webhook
 7. Deploy Flask app
 
+<img width="947" alt="Screenshot 2025-05-06 015516" src="https://github.com/user-attachments/assets/6d9c3f09-ccb2-4690-ae8f-1bf00528d5bf" />
 ![image](https://github.com/user-attachments/assets/90335bdf-0191-4a6c-bfb8-0c0c30119317)
 <img width="387" alt="result" src="https://github.com/user-attachments/assets/55920917-6493-4a09-8c66-a4d40af0b849" />
 
