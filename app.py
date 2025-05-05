@@ -3,7 +3,7 @@ app = Flask(__name__)
 
 @app.route('/')
 def hello():
-    return 'Hello, World from Jenkins!.Testing is under Progress .'
+    return 'Hello, World from Jenkins!.Testing is under Progress..'
 
 if __name__ == '__main__':
     app.run(host='0.0.0.0', port=5000)
